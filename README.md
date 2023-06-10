@@ -10,7 +10,7 @@ Line 34 put your username.
 ## JGMENU:
 In the prepend.csv script change the paths to your user's.
 
-##NCMPCPP:
+## NCMPCPP:
 Line 7 your folder.
 
 In the folders: config, fonts, icons, lua, ncmpcpp, themes, put the point to hide them.
